@@ -1,4 +1,4 @@
 #Hello this is an example repo
 
 
-![This is a a cat gif (./cat.gif)]
+![This is a a cat gif](./cat.gif)
